@@ -5,7 +5,10 @@ These are all the translation packs for Web2project. Just download the correspon
 
 ## Available Languages
 
-Czech (CS)
+|Language|Code|Folder|
+|---|----|---------------|
+| Czech | CS | cs/ |
+
 German (DE)
 English (included in Web2project)
 Spanish (ES)
