@@ -3,7 +3,7 @@ Web2project Translation Packs
 
 These are all the translation packs for Web2project. Just download the corresponding language folder and place it into your locales/ directory within Web2project.
 
-* While every attempt is made to ensure the accuracy and completeness of these translations, we don't guarantee anything. The core development team doesn't speak all of these languages and is dependent on awesome community members to support them. *
+*While every attempt is made to ensure the accuracy and completeness of these translations, we don't guarantee anything. The core development team doesn't speak all of these languages and is dependent on awesome community members to support them.*
 
 ## Available Languages
 
